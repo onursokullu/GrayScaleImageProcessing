@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\bin\Debug\GrayScaleImageProcessing.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\bin\Debug\GrayScaleImageProcessing.exe
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\bin\Debug\GrayScaleImageProcessing.pdb
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\obj\Debug\GrayScaleImageProcessing.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\obj\Debug\GrayScaleImageProcessing.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\obj\Debug\GrayScaleImageProcessing.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\obj\Debug\GrayScaleImageProcessing.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\obj\Debug\GrayScaleImageProcessing.exe
+c:\users\asus\documents\visual studio 2017\Projects\GrayScaleImageProcessing\GrayScaleImageProcessing\obj\Debug\GrayScaleImageProcessing.pdb
